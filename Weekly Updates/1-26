@@ -1,1 +1,5 @@
-Placeholder
+Date: 1/26/22
+
+We were able to finish our PCB design, passing all DRC checks and have all the files that the PCB manufactorers would require. The 
+PIC programmer was also configured so that it was able to work with the PIC-32, allowing us to now program the PIC-32 MCU using MPLabX.
+With the ESP-32, we were able to use the ESP-IDF to run code that allows a ESP-32 devboard to 
